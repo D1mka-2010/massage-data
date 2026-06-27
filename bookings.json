@@ -1,1 +1,17 @@
-{"bookings": []}
+{
+  "bookings": [
+    {
+      "id": 1,
+      "username": "Dzmitry",
+      "service": "classic",
+      "date": "2026-06-27",
+      "time": "16:30",
+      "duration": 30,
+      "cost": 5,
+      "promo": null,
+      "comment": "",
+      "status": "active",
+      "created_at": "2026-06-27T13:06:52.789Z"
+    }
+  ]
+}
