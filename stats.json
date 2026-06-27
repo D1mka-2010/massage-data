@@ -1,17 +1,10 @@
 {
   "Dzmitry": {
-    "fullName": "Дмитрий",
-    "history": [
-      {
-        "date": "2026-06-27 16:30",
-        "service": "classic",
-        "duration": 30,
-        "cost": 5,
-        "promo": "-"
-      }
-    ],
-    "visits": 1,
-    "totalMinutes": 30,
-    "totalSpent": 5
+    "fullName": "Dzmitry",
+    "visits": 0,
+    "totalMinutes": 0,
+    "totalSpent": 0,
+    "promoCodesUsed": 0,
+    "history": []
   }
 }
