@@ -6,13 +6,5 @@
       "email": "anurin.dmit@ya.ru",
       "password": "4825da8e4f25d3dfbb70647e408d5cae0d3aa407959e66cf9317ac66fefd06f6",
       "created_at": 1782547724
-    },
-    {
-      "id": 2,
-      "username": "Anton",
-      "email": "s9531357@gmail.com",
-      "password": "a8f5f167f44f4964e6c998a8f5f167f44f4964e6c998a8f5f167f44f4964e6c998",
-      "created_at": 1782547725
     }
-  ]
 }
