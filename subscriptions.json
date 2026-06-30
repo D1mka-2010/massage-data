@@ -1,1 +1,11 @@
-{"subscriptions": {}}
+{
+  "subscriptions": {
+    "Anton": {
+      "type": "30min",
+      "startDate": "2026-06-30",
+      "endDate": "+029405-07-25",
+      "daysUsed": 0,
+      "maxDays": 9999999
+    }
+  }
+}
