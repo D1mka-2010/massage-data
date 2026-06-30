@@ -25,6 +25,19 @@
       "comment": "",
       "status": "cancelled",
       "created_at": "2026-06-30T10:10:37.579Z"
+    },
+    {
+      "id": 3,
+      "username": "Dzmitry",
+      "service": "classic",
+      "date": "2026-06-30",
+      "time": "14:20",
+      "duration": 15,
+      "cost": 0,
+      "promo": "FreeAn",
+      "comment": "",
+      "status": "active",
+      "created_at": "2026-06-30T10:54:06.958Z"
     }
   ]
 }
