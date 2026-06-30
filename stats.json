@@ -9,20 +9,12 @@
     "freeAnUsed": 0
   },
   "Anton": {
-    "fullName": "Anton Anuryn",
-    "visits": 1,
-    "totalMinutes": 15,
-    "totalSpent": 2,
+    "fullName": "Anton",
+    "visits": 0,
+    "totalMinutes": 0,
+    "totalSpent": 0,
     "promoCodesUsed": 0,
-    "history": [
-      {
-        "date": "2026-06-30 13:30",
-        "service": "classic",
-        "duration": 15,
-        "cost": 2,
-        "promo": "-"
-      }
-    ],
+    "history": [],
     "freeAnUsed": 0
   }
 }
