@@ -1,1 +1,4 @@
-{"price_per_minute": 0.20, "free_minutes": 5}
+{
+  "price_per_minute": 0.1,
+  "free_minutes": 18
+}
