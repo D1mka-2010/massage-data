@@ -1,10 +1,10 @@
 {
   "Dzmitry": {
     "fullName": "Dzmitry Anuryn",
-    "visits": 1,
-    "totalMinutes": 15,
-    "totalSpent": 0.5,
-    "promoCodesUsed": 1,
+    "visits": 2,
+    "totalMinutes": 75,
+    "totalSpent": 5.3,
+    "promoCodesUsed": 2,
     "history": [
       {
         "date": "2026-06-30 14:20",
@@ -12,6 +12,13 @@
         "duration": 15,
         "cost": 0,
         "promo": "FreeAn"
+      },
+      {
+        "date": "2026-07-01 22:55",
+        "service": "asmr",
+        "duration": 60,
+        "cost": 4.8,
+        "promo": "SLOT20"
       }
     ],
     "freeAnUsed": 1
